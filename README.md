@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashibhushan Singh</h1>
-<h3 align="center">Microsoft Certified AI Engineer & Black Hat Python programmer</h3>
+<h3 align="center">Microsoft Certified AI Engineer & AWS Educate Cloud Ambassador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh728om" alt="singh728om" /> </p>
 
